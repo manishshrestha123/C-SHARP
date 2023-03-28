@@ -1,0 +1,8 @@
+D:\Manish .net\Data type operator control statement\Data type operator control statement\obj\Debug\Data type operator control statement.csproj.AssemblyReference.cache
+D:\Manish .net\Data type operator control statement\Data type operator control statement\obj\Debug\Data type operator control statement.csproj.SuggestedBindingRedirects.cache
+D:\Manish .net\Data type operator control statement\Data type operator control statement\obj\Debug\Data type operator control statement.csproj.CoreCompileInputs.cache
+D:\Manish .net\Data type operator control statement\Data type operator control statement\bin\Debug\Data type operator control statement.exe.config
+D:\Manish .net\Data type operator control statement\Data type operator control statement\bin\Debug\Data type operator control statement.exe
+D:\Manish .net\Data type operator control statement\Data type operator control statement\bin\Debug\Data type operator control statement.pdb
+D:\Manish .net\Data type operator control statement\Data type operator control statement\obj\Debug\Data type operator control statement.exe
+D:\Manish .net\Data type operator control statement\Data type operator control statement\obj\Debug\Data type operator control statement.pdb
