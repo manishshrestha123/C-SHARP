@@ -1,0 +1,8 @@
+D:\.NET\Indexers\Indexers\bin\Debug\Indexers.exe.config
+D:\.NET\Indexers\Indexers\bin\Debug\Indexers.exe
+D:\.NET\Indexers\Indexers\bin\Debug\Indexers.pdb
+D:\.NET\Indexers\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+D:\.NET\Indexers\Indexers\obj\Debug\Indexers.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+D:\.NET\Indexers\Indexers\obj\Debug\Indexers.exe
+D:\.NET\Indexers\Indexers\obj\Debug\Indexers.pdb

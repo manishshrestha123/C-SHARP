@@ -1,0 +1,8 @@
+D:\.NET\jumpstatement\jumpstatement\bin\Debug\jumpstatement.exe.config
+D:\.NET\jumpstatement\jumpstatement\bin\Debug\jumpstatement.exe
+D:\.NET\jumpstatement\jumpstatement\bin\Debug\jumpstatement.pdb
+D:\.NET\jumpstatement\jumpstatement\obj\Debug\jumpstatement.csproj.AssemblyReference.cache
+D:\.NET\jumpstatement\jumpstatement\obj\Debug\jumpstatement.csproj.SuggestedBindingRedirects.cache
+D:\.NET\jumpstatement\jumpstatement\obj\Debug\jumpstatement.csproj.CoreCompileInputs.cache
+D:\.NET\jumpstatement\jumpstatement\obj\Debug\jumpstatement.exe
+D:\.NET\jumpstatement\jumpstatement\obj\Debug\jumpstatement.pdb

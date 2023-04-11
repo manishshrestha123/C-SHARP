@@ -1,0 +1,8 @@
+D:\.NET\Loop\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+D:\.NET\Loop\Loop\obj\Debug\Loop.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+D:\.NET\Loop\Loop\bin\Debug\Loop.exe.config
+D:\.NET\Loop\Loop\bin\Debug\Loop.exe
+D:\.NET\Loop\Loop\bin\Debug\Loop.pdb
+D:\.NET\Loop\Loop\obj\Debug\Loop.exe
+D:\.NET\Loop\Loop\obj\Debug\Loop.pdb

@@ -1,0 +1,8 @@
+D:\.NET\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.exe.config
+D:\.NET\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.exe
+D:\.NET\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.pdb
+D:\.NET\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.AssemblyReference.cache
+D:\.NET\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.SuggestedBindingRedirects.cache
+D:\.NET\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.CoreCompileInputs.cache
+D:\.NET\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.exe
+D:\.NET\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.pdb

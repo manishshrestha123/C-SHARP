@@ -1,0 +1,8 @@
+D:\.NET\Interface\Interface\bin\Debug\Interface.exe.config
+D:\.NET\Interface\Interface\bin\Debug\Interface.exe
+D:\.NET\Interface\Interface\bin\Debug\Interface.pdb
+D:\.NET\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\.NET\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\.NET\Interface\Interface\obj\Debug\Interface.exe
+D:\.NET\Interface\Interface\obj\Debug\Interface.pdb

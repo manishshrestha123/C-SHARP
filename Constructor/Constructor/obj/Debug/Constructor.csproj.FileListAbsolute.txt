@@ -1,0 +1,8 @@
+D:\.NET\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+D:\.NET\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\.NET\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\.NET\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\.NET\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\.NET\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\.NET\Constructor\Constructor\obj\Debug\Constructor.pdb

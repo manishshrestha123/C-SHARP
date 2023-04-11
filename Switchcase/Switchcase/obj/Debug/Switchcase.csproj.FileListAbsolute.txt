@@ -1,0 +1,8 @@
+D:\.NET\Switchcase\Switchcase\bin\Debug\Switchcase.exe.config
+D:\.NET\Switchcase\Switchcase\bin\Debug\Switchcase.exe
+D:\.NET\Switchcase\Switchcase\bin\Debug\Switchcase.pdb
+D:\.NET\Switchcase\Switchcase\obj\Debug\Switchcase.csproj.AssemblyReference.cache
+D:\.NET\Switchcase\Switchcase\obj\Debug\Switchcase.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Switchcase\Switchcase\obj\Debug\Switchcase.csproj.CoreCompileInputs.cache
+D:\.NET\Switchcase\Switchcase\obj\Debug\Switchcase.exe
+D:\.NET\Switchcase\Switchcase\obj\Debug\Switchcase.pdb
