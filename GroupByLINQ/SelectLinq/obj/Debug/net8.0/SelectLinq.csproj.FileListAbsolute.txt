@@ -1,0 +1,14 @@
+D:\source\repos\GroupByLINQ\SelectLinq\bin\Debug\net8.0\SelectLinq.exe
+D:\source\repos\GroupByLINQ\SelectLinq\bin\Debug\net8.0\SelectLinq.deps.json
+D:\source\repos\GroupByLINQ\SelectLinq\bin\Debug\net8.0\SelectLinq.runtimeconfig.json
+D:\source\repos\GroupByLINQ\SelectLinq\bin\Debug\net8.0\SelectLinq.dll
+D:\source\repos\GroupByLINQ\SelectLinq\bin\Debug\net8.0\SelectLinq.pdb
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.AssemblyInfoInputs.cache
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.AssemblyInfo.cs
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.csproj.CoreCompileInputs.cache
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.dll
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\refint\SelectLinq.dll
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.pdb
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\SelectLinq.genruntimeconfig.cache
+D:\source\repos\GroupByLINQ\SelectLinq\obj\Debug\net8.0\ref\SelectLinq.dll

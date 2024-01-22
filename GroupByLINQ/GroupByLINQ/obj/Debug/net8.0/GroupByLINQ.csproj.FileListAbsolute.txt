@@ -1,0 +1,14 @@
+D:\source\repos\GroupByLINQ\GroupByLINQ\bin\Debug\net8.0\GroupByLINQ.exe
+D:\source\repos\GroupByLINQ\GroupByLINQ\bin\Debug\net8.0\GroupByLINQ.deps.json
+D:\source\repos\GroupByLINQ\GroupByLINQ\bin\Debug\net8.0\GroupByLINQ.runtimeconfig.json
+D:\source\repos\GroupByLINQ\GroupByLINQ\bin\Debug\net8.0\GroupByLINQ.dll
+D:\source\repos\GroupByLINQ\GroupByLINQ\bin\Debug\net8.0\GroupByLINQ.pdb
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.AssemblyInfoInputs.cache
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.AssemblyInfo.cs
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.csproj.CoreCompileInputs.cache
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.dll
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\refint\GroupByLINQ.dll
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.pdb
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\GroupByLINQ.genruntimeconfig.cache
+D:\source\repos\GroupByLINQ\GroupByLINQ\obj\Debug\net8.0\ref\GroupByLINQ.dll
